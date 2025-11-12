@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace DoAnLapTrinhWeb_HK1N2
+namespace HNShop
 {
     public class MvcApplication : System.Web.HttpApplication
     {
